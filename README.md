@@ -10,7 +10,6 @@ The latest version can be run in the browser [here](https://endless-stars.github
 
 Although Endless Stars is a Scratch project, it's not on Scratch yet. To work on Endless Stars, do this:
 
-- Create a GitHub account (if you don't already have one)
 - Click on the green "<> Code" button at the top of this page
 - Click "Download ZIP"
 - Choose where to save the ZIP file on your computer

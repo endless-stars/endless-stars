@@ -8,7 +8,7 @@ The latest version can be run in the browser [here](https://endless-stars.github
 
 ## Contributing
 
-If you want to contribute, see [`Contributing.md`](./CONTRIBUTING.md).
+If you want to contribute, see [Contributing.md](./CONTRIBUTING.md).
 
 ## To-do list
 + Finish up map and individual map grid scenes
